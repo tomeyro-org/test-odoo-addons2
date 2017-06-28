@@ -1,2 +1,2 @@
-test-odoo-addons2 git@github.com:tomeyro-org/test-odoo-addons4.git
-test-odoo-addons2 git@github.com:tomeyro-org/test-odoo-addons5.git
+test-odoo-addons4 git@github.com:tomeyro-org/test-odoo-addons4.git
+test-odoo-addons5 git@github.com:tomeyro-org/test-odoo-addons5.git
